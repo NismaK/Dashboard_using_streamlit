@@ -3,7 +3,6 @@ import pandas as pd  # Import Pandas for data handling
 import numpy as np  # Import NumPy for generating sample data
 import matplotlib.pyplot as plt  # Import Matplotlib for plotting
 
-pip install matplotlib
 # Set page title and layout
 st.set_page_config(page_title='Sample Dashboard', layout='wide')
 
